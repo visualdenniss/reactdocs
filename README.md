@@ -10,10 +10,6 @@ https://beta.reactjs.org/
 
 ## Step 5: Add inverse data flow
 
-TikTak
-
-Thinking in React
-
 <table>
   <thead>
     <tr>
