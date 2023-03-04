@@ -25,12 +25,10 @@ TicTacToe : tictactoe
   </thead>
   <tbody>
     <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Your First Component </td>
+      <td>101-your-first-component</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
@@ -41,10 +39,8 @@ TicTacToe : tictactoe
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
@@ -55,10 +51,8 @@ TicTacToe : tictactoe
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
@@ -69,10 +63,8 @@ TicTacToe : tictactoe
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
