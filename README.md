@@ -10,12 +10,17 @@ https://beta.reactjs.org/
 
 ## Step 5: Add inverse data flow
 
+branches:
+
+Thinking in React : thinking-in-react
+
+TicTacToe : tictactoe
+
 <table>
   <thead>
     <tr>
       <th>Describing the UI</th>
       <th>branch</th>
-      <th>branchname</th>
     </tr>
   </thead>
   <tbody>
@@ -32,7 +37,6 @@ https://beta.reactjs.org/
     <tr>
       <td>Adding interactivity</td>
       <td>branch</td>
-      <td>branchname</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -47,7 +51,6 @@ https://beta.reactjs.org/
     <tr>
       <td>Managing State</td>
       <td>branch</td>
-      <td>branchname</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -62,7 +65,6 @@ https://beta.reactjs.org/
     <tr>
       <td>Escape Hatch</td>
       <td>branch</td>
-      <td>branchname</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
