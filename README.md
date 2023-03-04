@@ -4,20 +4,6 @@ TikTak
 
 Thinking in React
 
-Describing the UI
-
-branch // branchname
-
-Adding interactivity
-
-branch // branchname
-
-Managing State
-
-branch // branchname
-
-Escape Hatch
-
 <table>
   <thead>
     <tr>
