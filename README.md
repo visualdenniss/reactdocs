@@ -29,8 +29,8 @@ TicTacToe : tictactoe
       <td>101-your-first-component</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Importing and Exporting Components</td>
+      <td>102-import-export</td>
     </tr>
     <tr>
       <td>Adding interactivity</td>
